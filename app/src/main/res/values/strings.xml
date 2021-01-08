@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Dataset</string>
+    <string name="other_notes">Other Notes</string>
+    <string name="dekete_all">Dekete All</string>
+    <string name="new_paint">New Paint</string>
+    <string name="country">Country</string>
+    <string name="paint_name">Paint Name</string>
+    <string name="new_paint_add">you added a new paint</string>
 </resources>
